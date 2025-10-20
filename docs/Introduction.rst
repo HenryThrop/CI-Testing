@@ -1,6 +1,9 @@
+* This is a bulleted list.
+* It has two items, the second
+  item uses two lines.
 
-# This code is a helpful walkthrough for how to do continuous integration using GitHub. 
+1. This is a numbered list.
+2. It has two items too.
 
-# I am now writing the documentation to achieve this here. 
-
-#It's a bit of an expliment really. 
+#. This is a numbered list.
+#. It has two items too.
